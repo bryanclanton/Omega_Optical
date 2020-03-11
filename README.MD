@@ -8,8 +8,6 @@ The goal of this project is to take customer service data, call center agent sco
 * **Excel** for capturing data and displaying data via a dashboard
 * **Power BI** for data visualization
 
-[Click Here](https://app.powerbi.com/view?r=eyJrIjoiYTZhYTg2OTItZDQ5OS00M2FhLTg2NTYtMzAyYTlhZGMyZWQxIiwidCI6IjEwMWRhNTg3LTE4NDMtNGY1Mi04YjhhLTE3YjA2OWM2NmQzMyIsImMiOjJ9) to view my Power BI dashboard
-
 ## Project Screenshots
 
 ### Power BI Dashboard
