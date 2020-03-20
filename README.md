@@ -9,11 +9,8 @@ The goal of this project is to take customer service data, call center agent sco
 * **Tableau** for data visualization
 * **Power BI** for data visualization
 
-<<<<<<< HEAD:README.txt
 [Click Here](https://public.tableau.com/profile/clanton#!/vizhome/OmegaOpticalQualityDashboard/Dashboard1) to view my Tableau dashboard
 
-=======
->>>>>>> 2739709660df4a600e5c7dec2213b596984c91d4:README.MD
 ## Project Screenshots
 
 ### Tableau Dashboard
