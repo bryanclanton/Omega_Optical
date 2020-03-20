@@ -6,11 +6,15 @@ The goal of this project is to take customer service data, call center agent sco
 ## Tools Used
 
 * **Excel** for capturing data and displaying data via a dashboard
+* **Tableau** for data visualization
 * **Power BI** for data visualization
 
-[Click Here](https://app.powerbi.com/view?r=eyJrIjoiYTZhYTg2OTItZDQ5OS00M2FhLTg2NTYtMzAyYTlhZGMyZWQxIiwidCI6IjEwMWRhNTg3LTE4NDMtNGY1Mi04YjhhLTE3YjA2OWM2NmQzMyIsImMiOjJ9) to view my Power BI dashboard
+[Click Here](https://public.tableau.com/profile/clanton#!/vizhome/OmegaOpticalQualityDashboard/Dashboard1) to view my Tableau dashboard
 
 ## Project Screenshots
+
+### Tableau Dashboard
+![Alt text](readmeimg/tableau.PNG "Tableau Dashboard")
 
 ### Power BI Dashboard
 ![Alt text](readmeimg/power_bi.PNG "Power BI Dashboard")
